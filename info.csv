@@ -1,0 +1,9 @@
+id;format;zip;title;text;size;field;other;name_url;name_h1;name_h2;name_h3;name_h4;name_h5
+1;image;Yes;Art;Computer vizion art generation;1;Computer Vizion;0;id1/img_test.zip;test.jpg;;;;
+2;csv;No;Les echos;Les echos 01-2005;1;Nlp;0;id2/05-01.csv;;;;;
+3;csv;Yes;Test1;Ceci est un test;2;NLP;0;test.csv;;;;;
+4;image;No;test2;Ceci est un test;3;Signal;0;test.csv;;;;;
+5;text;Yes;test3;Ceci est un test;4;Economics;0;test.csv;;;;;
+6;video;No;test4;Ceci est un test;5;NLP;0;test.csv;;;;;
+7;csv;Yes;test5;Ceci est un test;6;Signal;0;test.csv;;;;;
+8;image;No;test6;Ceci est un test;7;Signal;0;test.csv;;;;;
